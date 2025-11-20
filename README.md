@@ -1,4 +1,4 @@
-🔗 URL Shortener with Click Analytics — Summary
+🔗 URL Shortener with Click Analytics
 
 A multi-region, high-performance URL Shortener designed for ultra-fast global redirects (<50ms), 99.99% uptime, and scalable click analytics. The system converts long URLs into compact short links while capturing detailed click metrics such as time, device, location, and referrer.
 
